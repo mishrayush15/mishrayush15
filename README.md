@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishrayush15&label=Profile%20views&color=0e75b6&style=flat" alt="mishrayush15" /> </p>
 
-- 🔭 My brain is currently working on **Interactive Robot with AI**
+- 🔭 My brain is currently working on **DAPPS Development**
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 I’m currently learning **Full stack development & Blockchain Development**
 
 - 🤝 I’m looking for help with **Real Time Language Translator**
 
-- 📝 I regularly write articles on [creativemishra.weebly.com](creativemishra.weebly.com)
+- 📝 Visit my website https://bs0d.vercel.app/
 
 - 💬 Ask me about **Machine Learning, Python, Html, CSS, MySQL, Web Penetration, Network Penetration, RAT**
 
