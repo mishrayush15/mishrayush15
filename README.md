@@ -11,11 +11,11 @@
 
 - 📝 Visit my website https://bs0d.vercel.app/
 
-- 💬 Ask me about **Machine Learning, Python, Html, CSS, MySQL, Web Penetration, Network Penetration, RAT**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **ayushmishra780193@gmail.com**
 
-- ⚡ Fun fact **programming is easy but not cybersec :)**
+- ⚡ Fun fact **Blockchain is better than your GF**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
